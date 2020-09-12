@@ -1,12 +1,14 @@
-<img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
+<h1 align="center">
+    <img alt="GoFinances Web" title="#gofinancesfrontend" src=".github/capa.png"/>
+</h1>
 
 <p align="center">
 
-<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Alquipo/GoStack12-Desafio-07-GoFinances">
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/cintiazago/gofinances-frontend">
 
 <img alt="Repository size" src="https://img.shields.io/github/repo-size/cintiazago/gofinances-frontend">
 
-<a href="https://github.com/Alquipo/GoStack12-Desafio-07-GoFinances/commits/master">
+<a href="https://github.com/cintiazago/gofinances-frontend/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/cintiazago/gofinances-frontend?color=blue">
 </a>
 
@@ -14,10 +16,6 @@
 </p>
 
 <p align="center">
-
-<a target="_blank" href="https://nodejs.org/">
-    <img alt="ReactNative" src="https://img.shields.io/static/v1?color=brightgreen&label=Node&message=JS&?style=plastic&logo=Node.js">
-</a>
 
 <a href="https://reactjs.org/">
   <img alt="ReactJS" src="https://img.shields.io/static/v1?color=blue&label=React&message=JS&?style=plastic&logo=React">
@@ -53,7 +51,7 @@ Para clonar e executar este aplicativo, você precisará de [Git](https://git-sc
 
 O projeto é composto por duas aplicações:
 
-1. Back-End ([Link do Repositório](https://github.com/Alquipo/gostack-desafio06-typeorm-upload))
+1. Back-End ([Link do Repositório](https://github.com/cintiazago/gostack-desafio06-typeorm-upload))
 2. Front-End
 
 💡 E preciso efetuar o clone e seguir os passos de instalação do [Repositório da API](https://github.com/cintiazago/gostack-desafio06-typeorm-upload)
